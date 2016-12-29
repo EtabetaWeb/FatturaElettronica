@@ -1,0 +1,4 @@
+SC Sconto
+PR Premio
+AB Abbuono
+AC Spesa accessoria

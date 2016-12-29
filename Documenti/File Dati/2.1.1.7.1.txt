@@ -1,0 +1,22 @@
+TC01 Cassa Nazionale Previdenza e Assistenza Avvocati e Procuratori Legali
+TC02 Cassa Previdenza Dottori Commercialisti
+TC03 Cassa Previdenza e Assistenza Geometri
+TC04 Cassa Nazionale Previdenza e Assistenza Ingegneri e Architetti Liberi Professionisti
+TC05 Cassa Nazionale del Notariato
+TC06 Cassa Nazionale Previdenza e Assistenza Ragionieri e Periti Commerciali
+TC07 Ente Nazionale Assistenza Agenti e Rappresentanti di Commercio (ENASARCO)
+TC08 Ente Nazionale Previdenza e Assistenza Consulenti del Lavoro (ENPACL)
+TC09 Ente Nazionale Previdenza e Assistenza Medici (ENPAM)
+TC10 Ente Nazionale Previdenza e Assistenza Farmacisti (ENPAF)
+TC11 Ente Nazionale Previdenza e Assistenza Veterinari (ENPAV)
+TC12 Ente Nazionale Previdenza e Assistenza Impiegati dell'Agricoltura (ENPAIA)
+TC13 Fondo Previdenza Impiegati Imprese di Spedizione e Agenzie Marittime
+TC14 Istituto Nazionale Previdenza Giornalisti Italiani (INPGI)
+TC15 Opera Nazionale Assistenza Orfani Sanitari Italiani (ONAOSI)
+TC16 Cassa Autonoma Assistenza Integrativa Giornalisti Italiani (CASAGIT)
+TC17 Ente Previdenza Periti Industriali e Periti Industriali Laureati (EPPI)
+TC18 Ente Previdenza e Assistenza Pluricategoriale (EPAP)
+TC19 Ente Nazionale Previdenza e Assistenza Biologi (ENPAB)
+TC20 Ente Nazionale Previdenza e Assistenza Professione Infermieristica (ENPAPI)
+TC21 Ente Nazionale Previdenza e Assistenza Psicologi (ENPAP)
+TC22 INPS
