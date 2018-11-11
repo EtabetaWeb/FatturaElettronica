@@ -1,6 +1,9 @@
 # FatturaElettronica
 Progetto per la generazione del file XML della fattura elettronica
 
+# Novità
+Dal percorso "/FatturaEL.v13/bin/Release/" è possibile scaricare il file "FatturaEL.v13.dll" release 1.0.x compilata per l'integrazione in altre applicazioni
+
 # Composizione
 La soluzione FatturaElettronica.sln si compone delle seguenti cartelle:
 * Documenti/Specifiche Tecniche: documentazione delle specifiche tecniche del formato della Fattura Elettronica
