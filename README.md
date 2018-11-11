@@ -25,4 +25,5 @@ L'assembly version è costituito de 4 parti ({Major Version}.{Minor Version}.{Bui
 
 # Siti di riferimento
 [Fattura EL v1.3](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/Comunicazioni/Fatture+e+corrispettivi/Fatture+e+corrispettivi+ST/ST+invio+di+fatturazione+elettronica/?page=schedecomunicazioni)
+
 [Fattura PA v1.2](http://www.fatturapa.gov.it/export/fatturazione/it/normativa/f-2.htm)
