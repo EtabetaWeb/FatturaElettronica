@@ -1,3 +1,5 @@
+<RegimeFiscale>
+
 RF01 Ordinario;
 RF02 Contribuenti minimi (art. 1, c.96-117, L. 244/2007);
 RF03 Nuove iniziative produttive (art.13, L. 388/2000);

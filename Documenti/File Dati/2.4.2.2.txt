@@ -1,3 +1,5 @@
+<ModalitaPagamento>											
+
 MP01 contanti
 MP02 assegno
 MP03 assegno circolare

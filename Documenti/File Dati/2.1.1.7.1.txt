@@ -1,3 +1,5 @@
+<TipoCassa>
+
 TC01 Cassa Nazionale Previdenza e Assistenza Avvocati e Procuratori Legali
 TC02 Cassa Previdenza Dottori Commercialisti
 TC03 Cassa Previdenza e Assistenza Geometri
