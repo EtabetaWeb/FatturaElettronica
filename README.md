@@ -1,3 +1,5 @@
+![FatturaElettronica](https://etabetaweb.files.wordpress.com/2018/11/fattura-elettronica.jpg)
+
 # FatturaElettronica
 Il progetto nasce dall’esigenza di creare una classe che permetta di rappresentare tutti i nodi previsti nel formato XML (eXtensible Markup Language) della Fattura Elettronica.
 
