@@ -4,7 +4,7 @@
 Il progetto nasce dall’esigenza di creare una classe che permetta di rappresentare tutti i nodi previsti nel formato XML (eXtensible Markup Language) della Fattura Elettronica.
 
 # Novità
-Dal percorso "/FatturaEL.v13/bin/Release/" è possibile scaricare il file di libreria "FatturaEL.v13.dll" basato sulla versione 1.3 dalle specifiche tecniche dell’Agenzia delle Entrate e compilata per l'integrazione in altre applicazioni.
+Dal percorso "/FatturaEL.v13/bin/Release/" è possibile scaricare il file di libreria "FatturaEL.v13.dll" basato sulla versione 1.3 delle specifiche tecniche dell’Agenzia delle Entrate e compilata per l'integrazione in altre applicazioni.
 
 # Composizione
 La soluzione FatturaElettronica.sln si compone delle seguenti cartelle:
