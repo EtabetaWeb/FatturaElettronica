@@ -33,7 +33,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File Dati", "File Dati", "{
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FatturaEL.v13", "FatturaEL.v13\FatturaEL.v13.vbproj", "{AA27196E-0A0B-4980-9D67-59230DBA5B7B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bin", "Bin", "{DEBF73B9-EBF7-41EF-A4E0-82711A5312B1}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GeneraFatturaEL.v13", "GeneraFatturaEL.v13\GeneraFatturaEL.v13.vbproj", "{6EE9F707-2423-4F09-9BCA-4EA3C620FB7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +45,10 @@ Global
 		{AA27196E-0A0B-4980-9D67-59230DBA5B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA27196E-0A0B-4980-9D67-59230DBA5B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA27196E-0A0B-4980-9D67-59230DBA5B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE9F707-2423-4F09-9BCA-4EA3C620FB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE9F707-2423-4F09-9BCA-4EA3C620FB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE9F707-2423-4F09-9BCA-4EA3C620FB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE9F707-2423-4F09-9BCA-4EA3C620FB7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

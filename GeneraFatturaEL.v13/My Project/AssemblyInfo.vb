@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Rivedere i valori degli attributi degli assembly
 
-<Assembly: AssemblyTitle("FatturaEL.v13")>
-<Assembly: AssemblyDescription("Classi per la generazione del file XML basato sullo schema versione 1.3")>
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("FatturaEL.v13")>
-<Assembly: AssemblyCopyright("Copyright ©  2018 Andrea (EtabetaWeb) Cervi")>
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("GeneraFatturaEL.v13")>
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("GeneraFatturaEL.v13")>
+<Assembly: AssemblyCopyright("Copyright ©  2018")>
+<Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-<Assembly: Guid("026348c0-7053-40a3-a81b-c15d54c838f0")>
+<Assembly: Guid("c54e3051-7530-4945-a7a1-0f19a6e521bc")>
 
 ' Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 '
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' usando l'asterisco '*' come illustrato di seguito:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.*")>
-<Assembly: AssemblyFileVersion("1.0")>
+<Assembly: AssemblyVersion("1.0.0.0")>
+<Assembly: AssemblyFileVersion("1.0.0.0")>
