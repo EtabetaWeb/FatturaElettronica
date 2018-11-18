@@ -13,10 +13,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specifiche Tecniche", "Specifiche Tecniche", "{CFAC879E-C0C9-4947-B291-1A2467AA3666}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Users\cervian3\Downloads\Rappresentazione_tabellare_del_tracciato_FatturaEL_versione_1.3.pdf = ..\..\..\..\Users\cervian3\Downloads\Rappresentazione_tabellare_del_tracciato_FatturaEL_versione_1.3.pdf
-		Documenti\Specifiche Tecniche\Rappresentazione_tabellare_del_tracciato_FatturaPA_versione_1.2.pdf = Documenti\Specifiche Tecniche\Rappresentazione_tabellare_del_tracciato_FatturaPA_versione_1.2.pdf
 		..\..\..\..\Users\cervian3\Downloads\Specifiche_tecniche_del_formato_FatturaEL_v1.3.pdf = ..\..\..\..\Users\cervian3\Downloads\Specifiche_tecniche_del_formato_FatturaEL_v1.3.pdf
-		Documenti\Specifiche Tecniche\Specifiche_tecniche_del_formato_FatturaPA_v1.1.pdf = Documenti\Specifiche Tecniche\Specifiche_tecniche_del_formato_FatturaPA_v1.1.pdf
-		Documenti\Specifiche Tecniche\Specifiche_tecniche_del_formato_FatturaPA_v1.2.pdf = Documenti\Specifiche Tecniche\Specifiche_tecniche_del_formato_FatturaPA_v1.2.pdf
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "File Dati", "File Dati", "{AF524961-A6E7-4DB1-B6AE-EF6DCDC74F3A}"
