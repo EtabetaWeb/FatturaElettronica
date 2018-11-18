@@ -113,12 +113,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\FatturaPA.v12\FatturaPA.v12.vbproj">
-      <Project>{aaf3d9a8-5f3c-4cdc-b186-5ca05e95cdb2}</Project>
-      <Name>FatturaPA.v12</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
