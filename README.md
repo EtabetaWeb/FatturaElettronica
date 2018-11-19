@@ -5,9 +5,9 @@ Il progetto nasce dall’esigenza di creare una classe che permetta di rappresen
 Sviluppato in Visual Basic .Net, utilizza il .Net Framework 4.6.
 
 # Novità
-![CopertinaGuida](https://etabetaweb.files.wordpress.com/2018/11/copertina-guida-fatturael.jpg) Dal 26 novembre è disponibile la guida per l'implementazione della classe opensource per la generazione della Fattura Elettronica.
-In esclusiva sullo store Amazon Kindle Book in formato digitale.
-La guida spiega come procedere all'implementazione della classe per la realizzazione di applicazioni contabili che prevedano l'emissione della fattura elettronica
+Dal 26 novembre è disponibile la guida per l'implementazione della classe opensource per la generazione della Fattura Elettronica. In esclusiva sullo store Amazon Kindle Book in formato digitale. La guida spiega come procedere all'implementazione della classe per la realizzazione di applicazioni contabili che prevedano l'emissione della fattura elettronica
+
+![CopertinaGuida](https://etabetaweb.files.wordpress.com/2018/11/copertina-guida-fatturael.jpg) 
 
 [ACQUISTA ONLINE](https://amzn.to/2A4D4aN)
 
