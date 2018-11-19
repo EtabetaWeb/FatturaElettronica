@@ -2,8 +2,43 @@
 
 # FatturaElettronica
 Il progetto nasce dall’esigenza di creare una classe che permetta di rappresentare tutti i nodi previsti nel formato XML  (eXtensible Markup Language) della Fattura Elettronica basato sulla versione 1.3 delle specifiche tecniche dell’Agenzia delle Entrate.
+Sviluppato in Visual Basic .Net, utilizza il .Net Framework 4.6.
 
 # Novità
+![CopertinaGuida](https://etabetaweb.files.wordpress.com/2018/11/copertina-guida-fatturael.jpg)
+Dal 26 novembre è disponibile la guida per l'implementazione della classe opensource per la generazione della Fattura Elettronica.
+In esclusiva sullo store Amazon Kindle Book in formato digitale.
+La guida spiega come procedere all'implementazione della classe per la realizzazione di applicazioni contabili che prevedano l'emissione della fattura elettronica
+
+[ACQUISTA ONLINE](https://amzn.to/2A4D4aN)
+
+Tra gli argomenti trattati:
+* La fattura elettronica
+* La fattura elettronica e le differenze con la fattura cartacea
+* I vantaggi della fattura elettronica
+* Le informazioni obbligatorie
+* La struttura del file XML
+* XML: visione generale 9
+* Come trasmettere il file XML
+* Download del codice sorgente e del file di libreria
+* Organizzazione del repository
+* Utilizzo della libreria compilata in Visual Studio
+* Aggiunta del riferimento alla dll
+* Aggiunta dei riferimenti ai namespace
+* Aggiunta dell’istanza alla classe
+* Utilizzo del progetto FatturaEL.v13 in Visual Studio
+* Aggiunta del progetto ad una soluzione
+* Aggiunta dei riferimenti ai namespace
+* Aggiunta dell’istanza alla classe
+* Utilizzo dei metodi e delle proprietà della classe
+* Aggiunta di un metodo con occorrenza singola
+* Assegnazione del valore ad una proprietà del metodo
+* Assegnazione del metodo figlio al metodo padre
+* Aggiunta di un metodo con occorrenza multipla
+* Assegnazione delle proprietà al nodo con occorrenza multipla
+* Codice di esempio
+
+# Download della libreria compilata
 Dal percorso "/FatturaEL.v13/bin/Release/" è possibile scaricare il file di libreria "FatturaEL.v13.dll" basato sulla versione 1.3 delle specifiche tecniche dell’Agenzia delle Entrate e compilata per l'integrazione in altre applicazioni.
 
 # Note al codice di esempio per generare la Fattura Elettronica
