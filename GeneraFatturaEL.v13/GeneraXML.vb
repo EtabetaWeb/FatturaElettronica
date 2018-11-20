@@ -523,7 +523,6 @@ Public Class GeneraXML
             ' CHIUDE IL NODO <Allegati>
             ' ------------------------------------------------------------------------------------------
             overviewBody.Allegati = allegati
-
             ' ------------------------------------------------------------------------------------------
             ' Scrive XML
             ' ------------------------------------------------------------------------------------------
@@ -543,7 +542,7 @@ Public Class GeneraXML
             emptyNsAttribute.XmlElements.Add(xElement1)
             xmlAttributeOverrides.Add(GetType(FatturaElettronica), "FatturaElettronicaHeader", emptyNsAttribute)
             xmlAttributeOverrides.Add(GetType(FatturaElettronica), "FatturaElettronicaBody", emptyNsAttribute)
-            ' if you actual library type contains more members, then you have to list all of them
+            ' specifica la versione di trasmissione se verso PA o Privato
             nodoPrincipale.versione = "FPA12"
             Dim ser As New XmlSerializer(nodoPrincipale.[GetType](), xmlAttributeOverrides)
             Dim ns As New XmlSerializerNamespaces()
