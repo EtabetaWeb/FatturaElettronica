@@ -4,8 +4,6 @@ Imports FatturaEL.v13
 
 Public Class GeneraXML
 
-
-
     Private Function genera_xml(percorso As String, nome_file As String) As Boolean
         Dim esito As Boolean = False
         Try
@@ -544,7 +542,10 @@ Public Class GeneraXML
             xmlAttributeOverrides.Add(GetType(FatturaElettronica), "FatturaElettronicaBody", emptyNsAttribute)
             ' specifica la versione di trasmissione se verso PA o Privato
             nodoPrincipale.versione = "FPA12"
+            ' serializza i nodi ed esegue l'override del nodo principale per aggiungere il tag "pX"
             Dim ser As New XmlSerializer(nodoPrincipale.[GetType](), xmlAttributeOverrides)
+            ser = New XmlSerializer(nodoPrincipale.[GetType](), New XmlRootAttribute("pX"))
+            ' aggiunge gli attributi
             Dim ns As New XmlSerializerNamespaces()
             ns.Add("ds", "http://www.w3.org/2000/09/xmldsig#")
             ns.Add("p", "http://ivaservizi.agenziaentrate.gov.it/docs/xsd/fatture/v1.2")
@@ -553,6 +554,13 @@ Public Class GeneraXML
             Dim file As System.IO.FileStream = System.IO.File.Create(path)
             ser.Serialize(New StreamWriter(file, New System.Text.UTF8Encoding()), nodoPrincipale, ns)
             file.Close()
+            ' sostituisce il tag "pX" con il tag corretto "p:FatturaElettronica"
+            Dim delimiterToBeReplaced As String = "pX"
+            Dim newDelimiter As String = "p:FatturaElettronica"
+            Dim contents As String = System.IO.File.ReadAllText(path)
+            contents = contents.Replace(delimiterToBeReplaced, newDelimiter)
+            System.IO.File.WriteAllText(path, contents)
+            ' ritorna esito positivo
             esito = True
         Catch ex As Exception
             Return esito
