@@ -70,7 +70,7 @@ L'assembly version è costituito di 4 parti ({Major Version}.{Minor Version}.{Bu
 * Revision: incrementata automaticamente
 
 # Siti di riferimento
-* [Fattura EL v1.3](https://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Schede/Comunicazioni/Fatture+e+corrispettivi/Fatture+e+corrispettivi+ST/ST+invio+di+fatturazione+elettronica/?page=schedecomunicazioni)
+* [Portale Agenzia delle Entrate: Fattura elettronica e corrispettivi telematici](https://www.agenziaentrate.gov.it/portale/web/guest/aree-tematiche/fatturazione-elettronica)
 
 # Ringraziamenti
 Questo progetto nasce dal lavoro di Davide De Rubeis [C# - Come creare la Fattura Elettronica per la Pubblica Amministrazione (FatturaPA)](http://blogs.dotnethell.it/imaginsystems/C-Come-creare-la-Fattura-Elettronica-per-la-Pubblica-Amministrazione-FatturaPA__19559.aspx) basato sullo schema della versione 1.1.
