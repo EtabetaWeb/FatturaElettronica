@@ -1,9 +1,0 @@
-<TipoDocumento>											
-
-TD01 Fattura
-TD02 Acconto/Anticipo su fattura
-TD03 Acconto/Anticipo su parcella
-TD04 Nota di Credito
-TD05 Nota di Debito
-TD06 Parcella
-TD20 autofattura
