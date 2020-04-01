@@ -1,7 +1,8 @@
 ![FatturaElettronica](https://etabetaweb.files.wordpress.com/2018/11/fattura-elettronica.jpg)
 
 # Fattura Elettronica
-Il progetto nasce dall’esigenza di creare una classe che permetta di rappresentare tutti i nodi previsti nel formato XML (eXtensible Markup Language) della Fattura Elettronica basato sulle specifiche tecniche dell’Agenzia delle Entrate.
+
+Il progetto nasce dall’esigenza di creare una **libreria** che permetta di rappresentare tutti i **nodi previsti nel formato XML** (eXtensible Markup Language) della **Fattura Elettronica** basato sulle specifiche tecniche dell’Agenzia delle Entrate. 
 
 
 
@@ -15,11 +16,11 @@ Per seguire l'evoluzione delle varie specifiche tecniche rilasciate nel tempo, h
 
 - ### [FatturaElettronica.XMLNodes](https://github.com/EtabetaWeb/FatturaElettronica.XMLNodes)
 
-  Progetto basato sulla versione 1.5 delle specifiche tecniche dell’Agenzia delle Entrate. Libreria sviluppata in C# e NET Standard 2.0.
+  Basata sulla **versione 1.5** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **C# e NET Standard 2.0**.
 
 - ### [FatturaElettronica.v13](https://github.com/EtabetaWeb/FatturaElettronica.v13)
 
-  Progetto basato sulla versione 1.3 delle specifiche tecniche dell’Agenzia delle Entrate. Sviluppato in Visual Basic .Net.
+  Basata sulla **versione 1.3** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **Visual Basic** ed utilizza il **.Net Framework 4.6**. 
 
   
 
