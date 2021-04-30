@@ -16,7 +16,7 @@ Per seguire l'evoluzione delle varie specifiche tecniche rilasciate nel tempo, h
 
 - ### [FatturaElettronica.XMLNodes](https://github.com/EtabetaWeb/FatturaElettronica.XMLNodes)
 
-  Basata sulla **versione 1.5** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **C# e NET Standard 2.0**.
+  Basata sulla **versione 1.6.1** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **C# e NET Standard 2.0**.
 
 - ### [FatturaElettronica.v13](https://github.com/EtabetaWeb/FatturaElettronica.v13)
 
