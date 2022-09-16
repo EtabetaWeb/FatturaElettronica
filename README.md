@@ -2,7 +2,7 @@
 
 # Fattura Elettronica
 
-Il progetto nasce dall’esigenza di creare una **libreria** che permetta di rappresentare tutti i **nodi previsti nel formato XML** (eXtensible Markup Language) della **Fattura Elettronica** basato sulle specifiche tecniche dell’Agenzia delle Entrate. 
+Il progetto nasce dall’esigenza di creare una **libreria** che permetta di rappresentare tutti i **nodi previsti nel formato XML** (eXtensible Markup Language) della **Fattura Elettronica** basata sulle **specifiche tecniche dell’Agenzia delle Entrate.** 
 
 
 
@@ -14,14 +14,24 @@ Per seguire l'evoluzione delle varie specifiche tecniche rilasciate nel tempo, h
 
 # Repository
 
-- ### [FatturaElettronica.XMLNodes](https://github.com/EtabetaWeb/FatturaElettronica.XMLNodes)
+- ### [FatturaElettronica.XMLNodes.1.7.1](https://github.com/EtabetaWeb/FatturaElettronica.XMLNodes.1.7.1)
 
-  Basata sulla **versione 1.6.1** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **C# e NET Standard 2.0**.
+  Basata sulla **versione 1.7.1** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **C# e NET Standard 2.0**.
+
+- ### [FatturaElettronica.XMLNodes.1.6.1](https://github.com/EtabetaWeb/FatturaElettronica.XMLNodes.1.6.1)
+
+  <u>**Il progetto è stato deprecato a favore della libreria FatturaElettronica.XMLNodes.1.7.1**</u>
+
+  Basata sulla **versione 1.6.1** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **C# e NET Standard 2.0**. 
 
 - ### [FatturaElettronica.v13](https://github.com/EtabetaWeb/FatturaElettronica.v13)
 
-  Basata sulla **versione 1.3** delle specifiche tecniche dell’**Agenzia delle Entrate**, la **libreria** è sviluppata in **Visual Basic** ed utilizza il **.Net Framework 4.6**. 
+  <u>**Il progetto è stato deprecato a favore della libreria FatturaElettronica.XMLNodes.1.7.1**</u>
 
+  Basata sulla versione 1.3 delle specifiche tecniche dell’Agenzia delle Entrate, la libreria è sviluppata in Visual Basic ed utilizza il .Net Framework 4.6. 
+  
+  
+  
   
 
 # Siti di riferimento
